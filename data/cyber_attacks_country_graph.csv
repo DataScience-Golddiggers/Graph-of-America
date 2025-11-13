@@ -1,0 +1,13 @@
+attacker_country,target_country,weight
+BR,US,1
+CN,FR,1
+GB,AT,1
+GB,US,1
+IT,TW,1
+JP,US,1
+MY,CH,1
+SG,ES,1
+US,GB,1
+US,IN,1
+US,JP,1
+US,US,3

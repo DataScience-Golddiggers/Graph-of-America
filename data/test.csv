@@ -1,0 +1,17 @@
+attack_type,target_system,outcome,timestamp,attacker_ip,target_ip,data_compromised_GB,attack_duration_min,security_tools_used,user_role,location,attack_severity,industry,response_time_min,mitigation_method
+Phishing,Cloud Service,Failure,2024-04-03 11:13:15.083419,21.166.79.4,23.20.50.78,15.31,300,Firewall,Employee,Australia,2,Energy,164,Containment
+DDoS,Email Server,Success,2024-02-03 20:51:56.083463,187.180.150.169,34.160.58.218,65.05,242,Endpoint Detection,Admin,Brazil,10,Retail,64,Reset Credentials
+Zero-Day Exploit,Cloud Service,Success,2024-07-19 18:40:05.083472,57.161.159.140,213.142.125.206,48.99,120,Firewall,External User,Germany,7,Finance,87,Quarantine
+SQL Injection,Email Server,Failure,2023-12-08 00:54:17.083478,207.108.16.104,4.104.193.49,16.29,286,MFA,Employee,Russia,3,Healthcare,23,Patch
+Zero-Day Exploit,IoT Device,Failure,2024-07-23 05:38:20.083483,98.122.15.31,57.66.53.194,87.66,4,Firewall,Contractor,UK,6,Finance,129,Containment
+Malware,User Account,Failure,2024-08-19 19:15:30.083491,205.34.80.130,163.223.194.152,78.29,290,VPN,Contractor,France,5,Retail,160,Quarantine
+Ransomware,Email Server,Success,2024-05-09 18:29:57.083499,151.146.1.206,79.117.160.0,40.04,171,Antivirus,External User,UK,4,Technology,74,Patch
+Brute Force,IoT Device,Failure,2024-08-12 17:02:28.083508,227.165.40.4,175.72.25.30,80.26,85,WAF,Employee,Russia,6,Education,173,Quarantine
+DDoS,IoT Device,Failure,2024-09-01 10:41:31.083515,140.32.102.2,202.210.155.189,44.34,229,WAF,Employee,UK,3,Education,144,Quarantine
+Cross-Site Scripting,Network Switch,Success,2024-05-08 06:10:28.083521,158.152.180.3,184.3.184.154,9.15,102,Firewall,Contractor,USA,2,Manufacturing,137,Quarantine
+DDoS,Network Switch,Failure,2023-09-23 05:23:23.083527,151.25.136.93,111.243.134.34,20.56,218,Firewall,Admin,Canada,6,Retail,136,Quarantine
+Ransomware,Web Server,Success,2024-04-26 18:05:58.083532,236.134.90.51,73.194.202.6,2.43,103,SIEM,Employee,China,9,Education,38,Quarantine
+Ransomware,Cloud Service,Success,2023-09-09 10:41:34.083537,20.17.173.18,128.142.128.118,67.52,296,Firewall,External User,Russia,5,Retail,178,Quarantine
+Brute Force,IoT Device,Success,2024-05-04 09:13:29.083544,122.69.189.142,89.89.39.218,90.05,171,Endpoint Detection,Employee,Brazil,7,Healthcare,134,Patch
+Phishing,Web Server,Success,2024-06-02 15:15:28.083549,133.70.62.191,206.166.113.66,45.25,190,IDS,Admin,China,3,Retail,57,Patch
+Zero-Day Exploit,Database,Success,2024-04-25 02:43:01.083554,158.228.25.83,165.157.114.63,56.4,72,VPN,Employee,France,6,Government,178,Reset Credentials
