@@ -1,0 +1,41 @@
+source,target,weight
+Block IP,Brute Force,2467
+Block IP,Cross-Site Scripting,2464
+Block IP,DDoS,2536
+Block IP,Malware,2559
+Block IP,Phishing,2514
+Block IP,Ransomware,2565
+Block IP,SQL Injection,2506
+Block IP,Zero-Day Exploit,2461
+Containment,Brute Force,2526
+Containment,Cross-Site Scripting,2449
+Containment,DDoS,2497
+Containment,Malware,2471
+Containment,Phishing,2531
+Containment,Ransomware,2463
+Containment,SQL Injection,2540
+Containment,Zero-Day Exploit,2520
+Patch,Brute Force,2520
+Patch,Cross-Site Scripting,2618
+Patch,DDoS,2505
+Patch,Malware,2499
+Patch,Phishing,2496
+Patch,Ransomware,2486
+Patch,SQL Injection,2489
+Patch,Zero-Day Exploit,2538
+Quarantine,Brute Force,2510
+Quarantine,Cross-Site Scripting,2420
+Quarantine,DDoS,2458
+Quarantine,Malware,2487
+Quarantine,Phishing,2474
+Quarantine,Ransomware,2483
+Quarantine,SQL Injection,2447
+Quarantine,Zero-Day Exploit,2557
+Reset Credentials,Brute Force,2582
+Reset Credentials,Cross-Site Scripting,2460
+Reset Credentials,DDoS,2561
+Reset Credentials,Malware,2453
+Reset Credentials,Phishing,2426
+Reset Credentials,Ransomware,2502
+Reset Credentials,SQL Injection,2481
+Reset Credentials,Zero-Day Exploit,2479

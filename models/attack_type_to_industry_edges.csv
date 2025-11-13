@@ -1,0 +1,65 @@
+source,target,weight
+Brute Force,Education,1574
+Brute Force,Energy,1561
+Brute Force,Finance,1584
+Brute Force,Government,1538
+Brute Force,Healthcare,1510
+Brute Force,Manufacturing,1650
+Brute Force,Retail,1645
+Brute Force,Technology,1543
+Cross-Site Scripting,Education,1587
+Cross-Site Scripting,Energy,1533
+Cross-Site Scripting,Finance,1541
+Cross-Site Scripting,Government,1619
+Cross-Site Scripting,Healthcare,1528
+Cross-Site Scripting,Manufacturing,1557
+Cross-Site Scripting,Retail,1528
+Cross-Site Scripting,Technology,1518
+DDoS,Education,1547
+DDoS,Energy,1578
+DDoS,Finance,1538
+DDoS,Government,1633
+DDoS,Healthcare,1549
+DDoS,Manufacturing,1560
+DDoS,Retail,1590
+DDoS,Technology,1562
+Malware,Education,1591
+Malware,Energy,1547
+Malware,Finance,1538
+Malware,Government,1602
+Malware,Healthcare,1528
+Malware,Manufacturing,1584
+Malware,Retail,1514
+Malware,Technology,1565
+Phishing,Education,1486
+Phishing,Energy,1572
+Phishing,Finance,1531
+Phishing,Government,1492
+Phishing,Healthcare,1597
+Phishing,Manufacturing,1596
+Phishing,Retail,1582
+Phishing,Technology,1585
+Ransomware,Education,1630
+Ransomware,Energy,1539
+Ransomware,Finance,1549
+Ransomware,Government,1577
+Ransomware,Healthcare,1551
+Ransomware,Manufacturing,1541
+Ransomware,Retail,1573
+Ransomware,Technology,1539
+SQL Injection,Education,1597
+SQL Injection,Energy,1589
+SQL Injection,Finance,1535
+SQL Injection,Government,1570
+SQL Injection,Healthcare,1538
+SQL Injection,Manufacturing,1557
+SQL Injection,Retail,1558
+SQL Injection,Technology,1519
+Zero-Day Exploit,Education,1544
+Zero-Day Exploit,Energy,1583
+Zero-Day Exploit,Finance,1619
+Zero-Day Exploit,Government,1614
+Zero-Day Exploit,Healthcare,1567
+Zero-Day Exploit,Manufacturing,1563
+Zero-Day Exploit,Retail,1531
+Zero-Day Exploit,Technology,1534

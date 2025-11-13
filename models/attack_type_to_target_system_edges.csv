@@ -1,0 +1,65 @@
+source,target,weight
+Brute Force,API,1573
+Brute Force,Cloud Service,1517
+Brute Force,Database,1587
+Brute Force,Email Server,1634
+Brute Force,IoT Device,1575
+Brute Force,Network Switch,1569
+Brute Force,User Account,1573
+Brute Force,Web Server,1577
+Cross-Site Scripting,API,1538
+Cross-Site Scripting,Cloud Service,1656
+Cross-Site Scripting,Database,1522
+Cross-Site Scripting,Email Server,1637
+Cross-Site Scripting,IoT Device,1494
+Cross-Site Scripting,Network Switch,1537
+Cross-Site Scripting,User Account,1473
+Cross-Site Scripting,Web Server,1554
+DDoS,API,1486
+DDoS,Cloud Service,1580
+DDoS,Database,1594
+DDoS,Email Server,1563
+DDoS,IoT Device,1566
+DDoS,Network Switch,1585
+DDoS,User Account,1546
+DDoS,Web Server,1637
+Malware,API,1517
+Malware,Cloud Service,1556
+Malware,Database,1597
+Malware,Email Server,1564
+Malware,IoT Device,1493
+Malware,Network Switch,1600
+Malware,User Account,1568
+Malware,Web Server,1574
+Phishing,API,1523
+Phishing,Cloud Service,1613
+Phishing,Database,1491
+Phishing,Email Server,1627
+Phishing,IoT Device,1572
+Phishing,Network Switch,1480
+Phishing,User Account,1579
+Phishing,Web Server,1556
+Ransomware,API,1542
+Ransomware,Cloud Service,1552
+Ransomware,Database,1583
+Ransomware,Email Server,1573
+Ransomware,IoT Device,1566
+Ransomware,Network Switch,1543
+Ransomware,User Account,1546
+Ransomware,Web Server,1594
+SQL Injection,API,1539
+SQL Injection,Cloud Service,1560
+SQL Injection,Database,1536
+SQL Injection,Email Server,1539
+SQL Injection,IoT Device,1583
+SQL Injection,Network Switch,1564
+SQL Injection,User Account,1580
+SQL Injection,Web Server,1562
+Zero-Day Exploit,API,1556
+Zero-Day Exploit,Cloud Service,1607
+Zero-Day Exploit,Database,1570
+Zero-Day Exploit,Email Server,1497
+Zero-Day Exploit,IoT Device,1617
+Zero-Day Exploit,Network Switch,1598
+Zero-Day Exploit,User Account,1577
+Zero-Day Exploit,Web Server,1533

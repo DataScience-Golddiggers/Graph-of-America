@@ -1,0 +1,17 @@
+source,target,weight
+Antivirus,Failure,6207
+Antivirus,Success,6274
+Endpoint Detection,Failure,6240
+Endpoint Detection,Success,6338
+Firewall,Failure,6164
+Firewall,Success,6236
+IDS,Failure,6297
+IDS,Success,6292
+MFA,Failure,6240
+MFA,Success,6216
+SIEM,Failure,6317
+SIEM,Success,6351
+VPN,Failure,6269
+VPN,Success,6192
+WAF,Failure,6236
+WAF,Success,6131

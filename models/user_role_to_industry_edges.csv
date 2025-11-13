@@ -1,0 +1,33 @@
+source,target,weight
+Admin,Education,3122
+Admin,Energy,3144
+Admin,Finance,3136
+Admin,Government,3126
+Admin,Healthcare,3150
+Admin,Manufacturing,3198
+Admin,Retail,3139
+Admin,Technology,3099
+Contractor,Education,3158
+Contractor,Energy,3131
+Contractor,Finance,3080
+Contractor,Government,3209
+Contractor,Healthcare,3020
+Contractor,Manufacturing,3077
+Contractor,Retail,3111
+Contractor,Technology,3131
+Employee,Education,3215
+Employee,Energy,3136
+Employee,Finance,3106
+Employee,Government,3111
+Employee,Healthcare,3070
+Employee,Manufacturing,3195
+Employee,Retail,3139
+Employee,Technology,3026
+External User,Education,3061
+External User,Energy,3091
+External User,Finance,3113
+External User,Government,3199
+External User,Healthcare,3128
+External User,Manufacturing,3138
+External User,Retail,3132
+External User,Technology,3109
