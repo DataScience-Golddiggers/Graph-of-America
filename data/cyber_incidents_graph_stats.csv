@@ -1,0 +1,7 @@
+Metric,Value
+Number of Nodes (Countries),53
+Number of Edges (Attack Routes),81
+Total Incidents,280
+Network Density,0.0294
+Average Degree,3.06
+Is Weakly Connected,True
