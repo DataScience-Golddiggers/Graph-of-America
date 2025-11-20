@@ -98,124 +98,128 @@ graph [
   ]
   node [
     id 24
-    label "Saudi Arabia"
-  ]
-  node [
-    id 25
-    label "Syria"
-  ]
-  node [
-    id 26
-    label "Lebanon"
-  ]
-  node [
-    id 27
-    label "Netherlands"
-  ]
-  node [
-    id 28
-    label "North Korea"
-  ]
-  node [
-    id 29
-    label "South Africa"
-  ]
-  node [
-    id 30
-    label "Pakistan"
-  ]
-  node [
-    id 31
-    label "Palestine"
-  ]
-  node [
-    id 32
-    label "Austria"
-  ]
-  node [
-    id 33
-    label "Azerbaijan"
-  ]
-  node [
-    id 34
-    label "Belarus"
-  ]
-  node [
-    id 35
-    label "Bulgaria"
-  ]
-  node [
-    id 36
-    label "Czechia"
-  ]
-  node [
-    id 37
-    label "Denmark"
-  ]
-  node [
-    id 38
-    label "Estonia"
-  ]
-  node [
-    id 39
     label "Italy"
   ]
   node [
+    id 25
+    label "Saudi Arabia"
+  ]
+  node [
+    id 26
+    label "Syria"
+  ]
+  node [
+    id 27
+    label "Lebanon"
+  ]
+  node [
+    id 28
+    label "Netherlands"
+  ]
+  node [
+    id 29
+    label "North Korea"
+  ]
+  node [
+    id 30
+    label "South Africa"
+  ]
+  node [
+    id 31
+    label "Pakistan"
+  ]
+  node [
+    id 32
+    label "Palestine"
+  ]
+  node [
+    id 33
+    label "Austria"
+  ]
+  node [
+    id 34
+    label "Azerbaijan"
+  ]
+  node [
+    id 35
+    label "Belarus"
+  ]
+  node [
+    id 36
+    label "Bulgaria"
+  ]
+  node [
+    id 37
+    label "Czechia"
+  ]
+  node [
+    id 38
+    label "Denmark"
+  ]
+  node [
+    id 39
+    label "Estonia"
+  ]
+  node [
     id 40
-    label "Kazakhstan"
+    label "Finland"
   ]
   node [
     id 41
-    label "Lithuania"
+    label "Kazakhstan"
   ]
   node [
     id 42
-    label "Norway"
+    label "Lithuania"
   ]
   node [
     id 43
-    label "Poland"
+    label "Norway"
   ]
   node [
     id 44
-    label "Sweden"
+    label "Poland"
   ]
   node [
     id 45
-    label "Switzerland"
+    label "Sweden"
   ]
   node [
     id 46
-    label "Ukraine"
+    label "Switzerland"
   ]
   node [
     id 47
-    label "United Arab Emirates"
+    label "Ukraine"
   ]
   node [
     id 48
-    label "Spain"
+    label "United Arab Emirates"
   ]
   node [
     id 49
-    label "Qatar"
+    label "Spain"
   ]
   node [
     id 50
-    label "Turkey"
+    label "Qatar"
   ]
   node [
     id 51
-    label "Afghanistan"
+    label "Turkey"
   ]
   node [
     id 52
+    label "Afghanistan"
+  ]
+  node [
+    id 53
     label "Belgium"
   ]
   edge [
     source 0
     target 1
-    weight 3
+    weight 5
   ]
   edge [
     source 0
@@ -225,12 +229,12 @@ graph [
   edge [
     source 0
     target 3
-    weight 1
+    weight 2
   ]
   edge [
     source 0
     target 4
-    weight 2
+    weight 4
   ]
   edge [
     source 0
@@ -245,7 +249,7 @@ graph [
   edge [
     source 0
     target 7
-    weight 4
+    weight 5
   ]
   edge [
     source 0
@@ -280,7 +284,7 @@ graph [
   edge [
     source 0
     target 14
-    weight 4
+    weight 5
   ]
   edge [
     source 0
@@ -295,7 +299,7 @@ graph [
   edge [
     source 0
     target 17
-    weight 34
+    weight 53
   ]
   edge [
     source 0
@@ -314,22 +318,22 @@ graph [
   ]
   edge [
     source 11
-    target 32
-    weight 1
-  ]
-  edge [
-    source 11
     target 33
-    weight 2
+    weight 1
   ]
   edge [
     source 11
     target 34
-    weight 1
+    weight 2
   ]
   edge [
     source 11
     target 35
+    weight 1
+  ]
+  edge [
+    source 11
+    target 36
     weight 1
   ]
   edge [
@@ -339,27 +343,12 @@ graph [
   ]
   edge [
     source 11
-    target 36
+    target 37
     weight 2
   ]
   edge [
     source 11
-    target 37
-    weight 1
-  ]
-  edge [
-    source 11
     target 38
-    weight 1
-  ]
-  edge [
-    source 11
-    target 4
-    weight 7
-  ]
-  edge [
-    source 11
-    target 20
     weight 1
   ]
   edge [
@@ -374,22 +363,17 @@ graph [
   ]
   edge [
     source 11
-    target 41
-    weight 1
-  ]
-  edge [
-    source 11
-    target 27
+    target 3
     weight 2
   ]
   edge [
     source 11
-    target 42
-    weight 1
+    target 4
+    weight 8
   ]
   edge [
     source 11
-    target 43
+    target 20
     weight 1
   ]
   edge [
@@ -399,8 +383,23 @@ graph [
   ]
   edge [
     source 11
-    target 13
+    target 41
+    weight 1
+  ]
+  edge [
+    source 11
+    target 42
+    weight 1
+  ]
+  edge [
+    source 11
+    target 28
     weight 2
+  ]
+  edge [
+    source 11
+    target 43
+    weight 1
   ]
   edge [
     source 11
@@ -409,17 +408,32 @@ graph [
   ]
   edge [
     source 11
-    target 45
+    target 25
+    weight 1
+  ]
+  edge [
+    source 11
+    target 13
     weight 2
   ]
   edge [
     source 11
+    target 45
+    weight 1
+  ]
+  edge [
+    source 11
     target 46
-    weight 13
+    weight 2
   ]
   edge [
     source 11
     target 47
+    weight 15
+  ]
+  edge [
+    source 11
+    target 48
     weight 1
   ]
   edge [
@@ -430,21 +444,26 @@ graph [
   edge [
     source 11
     target 17
-    weight 14
+    weight 21
   ]
   edge [
     source 13
-    target 28
+    target 29
     weight 2
   ]
   edge [
     source 16
-    target 51
+    target 52
+    weight 1
+  ]
+  edge [
+    source 16
+    target 11
     weight 1
   ]
   edge [
     source 17
-    target 52
+    target 53
     weight 1
   ]
   edge [
@@ -459,7 +478,7 @@ graph [
   ]
   edge [
     source 17
-    target 28
+    target 29
     weight 2
   ]
   edge [
@@ -469,7 +488,7 @@ graph [
   ]
   edge [
     source 17
-    target 24
+    target 25
     weight 1
   ]
   edge [
@@ -499,8 +518,18 @@ graph [
   ]
   edge [
     source 21
+    target 0
+    weight 1
+  ]
+  edge [
+    source 21
     target 23
     weight 2
+  ]
+  edge [
+    source 21
+    target 24
+    weight 1
   ]
   edge [
     source 21
@@ -509,8 +538,8 @@ graph [
   ]
   edge [
     source 21
-    target 24
-    weight 6
+    target 25
+    weight 7
   ]
   edge [
     source 21
@@ -525,7 +554,7 @@ graph [
   edge [
     source 21
     target 17
-    weight 23
+    weight 24
   ]
   edge [
     source 23
@@ -534,86 +563,96 @@ graph [
   ]
   edge [
     source 23
-    target 25
-    weight 1
-  ]
-  edge [
-    source 26
-    target 17
-    weight 1
-  ]
-  edge [
-    source 27
     target 11
     weight 1
   ]
   edge [
+    source 23
+    target 26
+    weight 1
+  ]
+  edge [
+    source 27
+    target 17
+    weight 1
+  ]
+  edge [
     source 28
+    target 11
+    weight 1
+  ]
+  edge [
+    source 29
     target 19
     weight 1
   ]
   edge [
-    source 28
+    source 29
     target 0
     weight 1
   ]
   edge [
-    source 28
+    source 29
+    target 3
+    weight 1
+  ]
+  edge [
+    source 29
     target 6
     weight 2
   ]
   edge [
-    source 28
-    target 29
+    source 29
+    target 30
     weight 2
   ]
   edge [
-    source 28
+    source 29
     target 13
-    weight 9
+    weight 12
   ]
   edge [
-    source 28
+    source 29
     target 16
     weight 1
   ]
   edge [
-    source 28
+    source 29
     target 17
-    weight 8
+    weight 9
   ]
   edge [
-    source 30
+    source 31
     target 6
     weight 3
   ]
   edge [
-    source 30
+    source 31
     target 17
     weight 1
   ]
   edge [
-    source 31
+    source 32
     target 23
     weight 2
   ]
   edge [
-    source 47
-    target 49
-    weight 1
-  ]
-  edge [
-    source 47
+    source 48
     target 50
     weight 1
   ]
   edge [
-    source 47
-    target 16
+    source 48
+    target 51
     weight 1
   ]
   edge [
     source 48
+    target 16
+    weight 1
+  ]
+  edge [
+    source 49
     target 16
     weight 1
   ]

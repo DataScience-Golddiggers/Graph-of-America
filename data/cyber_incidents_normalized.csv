@@ -6,7 +6,7 @@ Targeting of U.S. companies and government agencies,8/10/2020,"U.S. government a
 Tracking of Saudi Arabian citizens in the United States,3/29/2020,Saudi Arabian citizens in the Untied States,Saudi Arabia,Espionage,Private sector,Saudi Arabia,Saudi Arabia
 Targeting of global financial institutions,5/12/2020,Global financial institutions,Korea (Democratic People's Republic of),Financial Theft,Private sector,Unknown,North Korea
 Pioneer Kitten,8/31/2020,"Iranian expats and dissidents, North American and Israeli organizations",Iran (Islamic Republic of),Espionage,"Civil society, Private sector, Government",United States,Iran
-Targeting of Burisma,1/13/2020,Burisma,Russian Federation,Espionage,Private sector,Unknown,Russia
+Targeting of Burisma,1/13/2020,Burisma,Russian Federation,Espionage,Private sector,Ukraine,Russia
 Targeting of  New York Times journalist Ben Hubbard,1/28/2020,Ben Hubbard,Saudi Arabia,Espionage,Civil society,Unknown,Saudi Arabia
 Targeting of Israeli water management facilities,7/17/2020,Israel,Iran (Islamic Republic of),Sabotage,Government,Israel,Iran
 Targeting of Arabic speakers with COVID-19–related apps,4/15/2020,Arabic speakers in Syria and surrounding region,Syrian Arab Republic,Espionage,Civil society,Syria,Syria
@@ -14,7 +14,7 @@ Targeting of defense companies in Israel and the Middle East,8/14/2020,Defense c
 "Targeting of companies in the United States, Israel, Saudi Arabia, and elsewhere",2/16/2020,Private companies in numerous countries,Iran (Islamic Republic of),Espionage,Private sector,Unknown,Iran
 Targeting of Poland’s War Studies University,4/23/2020,Poland’s War Studies University,Russian Federation,Defacement,"Government, Military",Poland,Russia
 Targeting of Iranian expats and dissidents,9/18/2020,Iranian expats and dissidents,Iran (Islamic Republic of),Espionage,Civil society,Iran,Iran
-Compromise of Bapco,1/8/2020,Bapco,Iran (Islamic Republic of),Espionage,Private sector,Unknown,Iran
+Compromise of Bapco,1/8/2020,Bapco,Iran (Islamic Republic of),Espionage,Private sector,Saudi Arabia,Iran
 Targeting of Vatican City computer networks,7/28/2020,"Vatican City, Pontifical Institute for Foreign Missions, Hong Kong Study Mission to China",China,,"Government, Civil society",Hong Kong,China
 "Targeting of Japan, Russia, and South Korean entities",3/5/2020,"Japanese, Russian, and South Korean civil society, private sector, and government entities.",China,Espionage,"Civil society, Private sector, Government",South Korea,China
 Operations against actors targeting Australians during COVID-19 pandemic,4/6/2020,Infrastructure used by foreign-based cybercriminals,Australia,Data destruction,Private sector,Unknown,Australia
@@ -22,8 +22,8 @@ BlackTech,8/19/2020,Taiwanese government agencies and email accounts,China,Espio
 Targeting of U.S. grid,1/9/2020,The U.S. electrical grid,Iran (Islamic Republic of),Espionage,Private sector,United States,Iran
 Targeting of Central European aerospace and defense companies,6/17/2020,European aerospace and defense firms,Korea (Democratic People's Republic of),Espionage,Private sector,Unknown,North Korea
 Targeting of U.S. government agency networks,11/14/2020,U.S. government networks,China,Espionage,Government,United States,China
-Stolen data on nearly two thousand Mitsubishi employees,1/20/2020,Mitsubishi Electric employees,China,Espionage,Private sector,Unknown,China
-Targeting of Tibetans via watering-hole attacks,3/31/2020,Tibetans,China,,,Unknown,China
+Stolen data on nearly two thousand Mitsubishi employees,1/20/2020,Mitsubishi Electric employees,China,Espionage,Private sector,Japan,China
+Targeting of Tibetans via watering-hole attacks,3/31/2020,Tibetans,China,,,China,China
 Targeting of Western entities involved in COVID-19 vaccine development,7/21/2020,"Private Companies, Governments, Nongovernmental Organizations, Individual Dissidents, Clergy, Democratic and Human Rights Activists",China,Espionage,"Private sector, Government, Civil society",Unknown,China
 Tonto Team,3/5/2020,"Japan, Russian Federation, Republic of Korea",China,,,South Korea,China
 Targeting of COVID-19 research organizations,5/13/2020,COVID-19 Research Organizations,China,Espionage,"Private sector, Government",Unknown,China
@@ -31,7 +31,7 @@ Targeting of Taiwanese government agencies and officials’ email accounts,8/19/
 Vicious Panda,3/12/2020,Mongolia,China,,,Unknown,China
 Targeting of air transportation and government agencies in Kuwait and Saudi Arabia,5/25/2020,Air transportation and government agencies in Kuwait and Saudi Arabia,Iran (Islamic Republic of),,"Private sector, Government",Saudi Arabia,Iran
 "Targeting of U.S. information technology, government, health-care, finance, and media industries",9/15/2020,U.S. government and private companies,Iran (Islamic Republic of),,"Government, Private sector",United States,Iran
-Spyware sent to Jeff Bezos on WhatsApp,1/21/2020,Jeff Bezos,,Espionage,"Private sector, Civil society",Unknown,Unknown
+Spyware sent to Jeff Bezos on WhatsApp,1/21/2020,Jeff Bezos,,Espionage,"Private sector, Civil society",United States,Unknown
 Targeting of World Health Organization (WHO) Staff Emails,4/2/2020,World Health Organization (WHO),Iran (Islamic Republic of),Espionage,,Unknown,Iran
 RedDelta,7/28/2020,"Vatican networks, Vatican officials, Hong Kong Study Mission to China, Pontifical Institute for Foreign Missions (PIME)",China,Espionage,"Government, Civil society",Hong Kong,China
 Watering-hole attacks targeting Armenian government websites,3/12/2020,Likely Armenian government officials,Russian Federation,Espionage,"Government, Civil society",Unknown,Russia
@@ -84,11 +84,11 @@ Targeting of North Koreans and North Korea–focused professionals,3/26/2020,Nor
 Targeting of ministries of foreign affairs and a national parliament in Central Asia and Eastern Europe,5/26/2020,Central Asian and Eastern European ministries of foreign affairs and parliament,Russian Federation,Espionage,Government,Unknown,Russia
 Targeting of the Donald J. Trump presidential campaign,9/10/2020,Individuals associated with the U.S. government or upcoming election,Iran (Islamic Republic of),Espionage,"Government, Civil society",United States,Iran
 Compromise of Indian nuclear power plant,11/12/2019,Noncritical devices in an Indian nuclear power plant,Korea (Democratic People's Republic of),Espionage,Government,India,North Korea
-Attempted attack on the Democratic National Convention (DNC) during 2018 elections,1/18/2019,Democratic National Committee,Russian Federation,Espionage,Civil society,Unknown,Russia
+Attempted attack on the Democratic National Convention (DNC) during 2018 elections,1/18/2019,Democratic National Committee,Russian Federation,Espionage,Civil society,United States,Russia
 "Targeting of over sixty universities in multiple countries, including the United States and United Kingdom",9/11/2019,"United States, United Kingdom, Australia, Canada, Hong Kong, Switzerland",Iran (Islamic Republic of),Espionage,"Civil society, Private sector",United Kingdom,Iran
 Attack on forum of Hong Kong protesters,12/4/2019,Hong Kong protesters,China,Denial of service,"Civil society, Private sector",Hong Kong,China
-Compromise of Bayer Pharmaceuticals,4/4/2019,Bayer Pharmaceuticals,China,Data destruction,Private sector,Unknown,China
-Targeting of senior members of Tibetan groups,9/24/2019,Tibet,China,Espionage,"Civil society, Government",Unknown,China
+Compromise of Bayer Pharmaceuticals,4/4/2019,Bayer Pharmaceuticals,China,Data destruction,Private sector,Germany,China
+Targeting of senior members of Tibetan groups,9/24/2019,Tibet,China,Espionage,"Civil society, Government",China,China
 Hijacking of Iranian hacking infrastructure,10/21/2019,"Military, government, scientific organizations, and universities in the Middle East and across the world",Russian Federation,Espionage,"Military, Government, Civil society",Unknown,Russia
 "Targeting of German energy technology, chemicals, and consumer goods companies, among others",7/24/2019,Germany,China,Espionage,Private sector,Germany,China
 Cyber espionage by the United Arab Emirates (UAE),1/30/2019,"Qatar, Turkey, Yemen",United Arab Emirates,Espionage,"Government, Civil society",Turkey,United Arab Emirates
@@ -107,7 +107,7 @@ Targeting of U.S. utility companies,8/1/2019,United States,,Espionage,Private se
 Targeting of Visma,2/6/2019,Visma,China,Espionage,Private sector,Unknown,China
 Autumn Aperture—malware embedded in antiquated file types,9/11/2019,Unnamed U.S.-based entities,Korea (Democratic People's Republic of),,Private sector,United States,North Korea
 Targeting of industrial control systems,11/23/2019,"Industrial control systems manufacturers, suppliers, and maintainers",Iran (Islamic Republic of),Espionage,Private sector,Unknown,Iran
-Compromise of Yandex,6/27/2019,Yandex,"United States, Australia, Canada, New Zealand, United Kingdom",Espionage,Private sector,Unknown,United Kingdom
+Compromise of Yandex,6/27/2019,Yandex,"United States, Australia, Canada, New Zealand, United Kingdom",Espionage,Private sector,Russia,United Kingdom
 Targeting of Japanese organizations,10/2/2019,Japanese organizations,China,Espionage,Private sector,Japan,China
 U.S. Cyber Command offensive attack of Russian troll farm,2/27/2019,Russia,United States,Denial of service,Government,Russia,United States
 Targeting of Middle Eastern oil companies,12/4/2019,Oil companies in the Middle East,Iran (Islamic Republic of),Data destruction,Private sector,Unknown,Iran
@@ -116,7 +116,7 @@ Targeting of the Cambodian government,12/7/2019,Cambodian government,China,Espio
 APT 41,8/7/2019,"United States, France, Japan, Singapore, United Kingdom, Hong Kong",China,Espionage,"Government, Private sector",United Kingdom,China
 Targeting of universities' maritime military secrets,3/5/2019,"University of Hawaii, University of Washington, Massachusetts Institute of Technology , Pennsylvania State University, Duke University",China,Espionage,"Civil society, Private sector",United Kingdom,China
 Targeting of a U.S. presidential campaign,10/4/2019,An unnamed U.S. presidential campaign,Iran (Islamic Republic of),Espionage,Government,United States,Iran
-Targeting of U.S. manufacturing group,11/13/2019,National Association of Manufacturers,China,Espionage,Civil society,Unknown,China
+Targeting of U.S. manufacturing group,11/13/2019,National Association of Manufacturers,China,Espionage,Civil society,United States,China
 Targeting of U.S. government and private entities and other victims,11/13/2019,"U.S. government,",Iran (Islamic Republic of),Espionage,"Government, Private sector",United States,Iran
 Compromise of Bahraini government agencies and critical infrastructure,8/7/2019,Bahrain,Iran (Islamic Republic of),Sabotage,"Government, Private sector",Bahrain,Iran
 Whitefly,3/6/2019,"Singapore, Russia, United Kingdom",,,"Government, Private sector",United Kingdom,Unknown
@@ -126,20 +126,20 @@ Attack of  Japanese companies with links to China,11/29/2019,Japanese organizati
 Targeting of secure messaging app used by Hong Kong protesters,6/13/2019,Hong Kong,Hong Kong,Espionage,Civil society,Hong Kong,Hong Kong
 Targeting of Ukrainian government entities,11/25/2019,Ukrainian government entities,Russian Federation,Espionage,Government,Ukraine,Russia
 2019 Indonesian elections,3/12/2019,Indonesia,"China, Russian Federation",Espionage,Government,Indonesia,Russia
-Compromise of Airbus suppliers,9/26/2019,Airbus,China,Espionage,Private sector,Unknown,China
+Compromise of Airbus suppliers,9/26/2019,Airbus,China,Espionage,Private sector,France,China
 Targeting of Egyptian dissidents,10/3/2019,"Egyptian journalists, academics, lawyers, opposition politicians, and human rights activists",Egypt,Espionage,Civil society,Egypt,Egypt
 Targeting of South Korean macOS users,11/20/2019,South Korean macOS users,Korea (Democratic People's Republic of),Espionage,,South Korea,North Korea
 Targeting of Russian speakers,10/10/2019,"Russian speakers, as well as diplomatic and government institutions in Eastern Europe",,Espionage,Government,Russia,Unknown
 Compromise of websites related to Uighur communities,9/3/2019,China,China,Espionage,Civil society,China,China
 Targeting of BMW and Hyundai,12/6/2019,BMW and Hyundai,Vietnam,Espionage,Private sector,Unknown,Vietnam
 Chinese intelligence repurposed NSA tools to attack private companies,5/6/2019,"Belgium, Luxembourg, The Philippines, and Vietnam",China,Espionage,Private sector,Philippines,China
-Targeting of Uzbek dissidents,10/31/2019,Uzbek activists and dissidents,Uzbekistan,Espionage,Civil society,Unknown,Unknown
+Targeting of Uzbek dissidents,10/31/2019,Uzbek activists and dissidents,Uzbekistan,Espionage,Civil society,Uzbekistan,Uzbekistan
 KINGDOM,10/12/2019,"Saudi Arabian dissidents, , Foreign journalists",Saudi Arabia,,,Saudi Arabia,Saudi Arabia
 Targeting of Internet Research Agency,2/26/2019,Russia,United States of America,Sabotage,Private sector,Russia,United States
 "Targeting of telecom companies across Africa, Europe, and Southeast Asia",12/12/2019,"Telecom companies in Africa, Europe, and Southeast Asia",China,Espionage,Private sector,Unknown,China
 Compromise of Amnesty International Hong Kong,4/15/2019,Amnesty International Hong Kong,China,Espionage,Civil society,Hong Kong,China
 U.S. retaliation against Iran,10/16/2019,Iran,United States,Data destruction,Government,Iran,United States
-Targeting of Moroccan activists,10/10/2019,"Maati Monjib, an academic and activist, and Abdessadak El Bouchattaoui, a human rights lawyer",Morocco,Espionage,Civil society,Unknown,Morocco
+Targeting of Moroccan activists,10/10/2019,"Maati Monjib, an academic and activist, and Abdessadak El Bouchattaoui, a human rights lawyer",Morocco,Espionage,Civil society,Morocco,Morocco
 Global hijacking of domain name system (DNS),1/9/2019,"United States, South Korea, Canada, Lebanon , United Arab Emirates",Iran (Islamic Republic of),Espionage,Private sector,United States,Iran
 Compromise of British infrastructure,4/2/2019,British Post Office and local government networks,Iran (Islamic Republic of),Espionage,Government,United Kingdom,Iran
 Targeting of European ministries,10/17/2019,Ministries of foreign affairs of three European countries and an EU country embassy in the United States,Russian Federation,Espionage,Government,United States,Russia
@@ -148,16 +148,16 @@ Compromise of U.S. electric utility control rooms,7/23/2018,United States,Russia
 Compromise of the Dukes,1/25/2018,Russian Federation,Netherlands,Espionage,Government,Russia,Netherlands
 Targeting of chemical research and media organizations in Germany,7/12/2018,Germany,Russian Federation,Espionage,Private sector,Germany,Russia
 Poison Ivy,9/21/2018,China,,Espionage,"Government, Private sector",China,Unknown
-HenBox,3/13/2018,Uighurs,China,Espionage,Civil society,Unknown,China
+HenBox,3/13/2018,Uighurs,China,Espionage,Civil society,China,China
 Compromise of FIFA,10/4/2018,Federation Internationale de Football Association (FIFA),Russian Federation,Espionage,Civil society,Unknown,Russia
 Stealth Mango and Tangelo,5/15/2018,"Pakistan, Afghanistan, India, Iraq, United Arab Emirates, United States, Australia, Germany",Pakistan,Espionage,"Government, Civil society",United States,Pakistan
 Targeting of the office of U.S. Senator Claire McCaskill,7/26/2018,United States,Russian Federation,Espionage,Government,United States,Russia
-Compromise of Marriott International,11/30/2018,Marriott International Inc,China,Espionage,Private sector,Unknown,China
+Compromise of Marriott International,11/30/2018,Marriott International Inc,China,Espionage,Private sector,United States,China
 Compromise of computer networks associated with the 2018 Pyeongchang Winter Olympics,2/12/2018,Republic of Korea,Russian Federation,Sabotage,Civil society,South Korea,Russia
 Thrip,6/19/2018,United States,China,Espionage,Private sector,United States,China
 Cobalt Dickens,8/24/2018,"Australia, Canada, China, Israel, Japan, Switzerland, Turkey, United Kingdom, United States",Iran (Islamic Republic of),Espionage,Civil society,United Kingdom,Iran
 UK targeting of the Islamic State group,4/12/2018,Islamic State Group,United Kingdom,Sabotage,Civil society,Unknown,United Kingdom
-Targeting of Westinghouse Electric Corporation,10/4/2018,Westinghouse Electric Company,Russian Federation,Espionage,Private sector,Unknown,Russia
+Targeting of Westinghouse Electric Corporation,10/4/2018,Westinghouse Electric Company,Russian Federation,Espionage,Private sector,United States,Russia
 Targeting of North Korean defectors and journalists,5/15/2018,South Korea,Korea (Democratic People's Republic of),Espionage,Civil society,South Korea,North Korea
 Raspite,8/2/2018,United States,,Espionage,Private sector,United States,Unknown
 Attempt to compromise Ukraine's judicial system,12/4/2018,Ukraine,Russian Federation,Espionage,Government,Ukraine,Russia
@@ -174,8 +174,8 @@ Targeting of congressional campaigns for the 2018 U.S. midterm elections,7/19/20
 Targeting of South Korean actors prior to meeting of Donald J. Trump and Kim Jong-un,6/5/2018,South Korea,"China, Russian Federation",Espionage,Government,South Korea,Russia
 Indictment of officials from the Mabna Institute,3/28/2018,"United States, United Nations, UNICEF, Australia, Canada, China, Denmark, Germany, Ireland, Israel, Italy, Japan, Malaysia, Netherlands, Norway, Poland, Singapore, Republic of Korea, Spain, Sweden, Switzerland, Turkey, United Kingdom",Iran (Islamic Republic of),Espionage,"Government, Civil society, Private sector",South Korea,Iran
 Rancor,6/26/2018,"Singapore, Cambodia",China,Espionage,"Government, Civil society",Singapore,China
-Targeting of Yahya Assiri,8/1/2018,Yahya Assiri,Saudi Arabia,Espionage,Civil society,Unknown,Saudi Arabia
-"Compromise of SingHealth, a large health-care provider in Singapore",7/20/2018,SingHealth,,Espionage,Private sector,Unknown,Unknown
+Targeting of Yahya Assiri,8/1/2018,Yahya Assiri,Saudi Arabia,Espionage,Civil society,Saudi Arabia,Saudi Arabia
+"Compromise of SingHealth, a large health-care provider in Singapore",7/20/2018,SingHealth,,Espionage,Private sector,Singapore,Unknown
 TempTick,6/5/2018,"South Korea, Japan",China,,"Government, Private sector",South Korea,China
 Targeting of organizations associated with trade activity with China,8/16/2018,"United States, Kenya, Mongolia, Brazil",China,Espionage,"Government, Private sector",United States,China
 APT 39,12/12/2018,"Saudi Arabia, Egypt, Turkey, Iraq, Spain, Norway, Australia, South Korea",Iran (Islamic Republic of),,"Government, Private sector",Saudi Arabia,Iran
@@ -193,15 +193,15 @@ Global bank attacks,10/3/2018,"United States, Mexico, Chile, Brazil, Uruguay, Po
 Compromise of Managed Service Providers and technology companies,12/20/2018,"Networks and clients of Hewlett Packard Enterprise, IBM, Fujitsu, Tata Consultancy Services, NTT Data, Dimension Data, Computer Sciences Corporation, and DXC Technology",China,Espionage,Private sector,Unknown,China
 Targeting of international sports federations,1/12/2018,"European Ice Hockey Federation, International Ski Federation, International Biathlon Union, International Bobsleigh and Skeleton Federation, International Luge Federation",Russian Federation,Espionage,Civil society,Unknown,Russia
 Compromise of a U.S. Navy contractor,6/8/2018,United States,China,Espionage,Private sector,United States,China
-Targeting of AMC Theatres,9/6/2018,AMC Theatres,Korea (Democratic People's Republic of),Espionage,Private sector,Unknown,North Korea
+Targeting of AMC Theatres,9/6/2018,AMC Theatres,Korea (Democratic People's Republic of),Espionage,Private sector,United States,North Korea
 Compromise of the EU's diplomatic communication network,12/18/2018,"European Union, United Nations, American Federation of Labor and Congress of Industrial Organizations",China,Espionage,Government,United States,China
 Compromise of Cambodian election organizations,7/10/2018,Cambodia,China,Espionage,"Government, Private sector",Unknown,China
 Targeting of the Organization for the Prohibition of Chemical Weapons,10/4/2018,Organization for the Prohibition of Chemical Weapons,Russian Federation,Espionage,Government,Unknown,Russia
 Covellite,5/31/2018,United States,,Espionage,Private sector,United States,Unknown
-Targeting of Austal,11/2/2018,Austal Ltd,,,Private sector,Unknown,Unknown
+Targeting of Austal,11/2/2018,Austal Ltd,,,Private sector,Australia,Unknown
 Targeting of U.S. energy and other critical infrastructure sectors,3/15/2018,United States,Russian Federation,Espionage,"Private sector, Government",United States,Russia
 Targeting of Mammoth Screen,9/6/2018,Mammoth Screen,Korea (Democratic People's Republic of),Espionage,Private sector,Unknown,North Korea
-Attack on Italian oil firm Saipem,12/20/2018,Saipem,Iran (Islamic Republic of),Espionage,Private sector,Unknown,Iran
+Attack on Italian oil firm Saipem,12/20/2018,Saipem,Iran (Islamic Republic of),Espionage,Private sector,Italy,Iran
 Mythic Leopard,5/18/2018,India,Pakistan,Espionage,"Government, Private sector",India,Pakistan
 Compromise of the U.S. Anti-Doping Agency,10/4/2018,U.S. Anti-Doping Agency,Russian Federation,Doxing,Civil society,United States,Russia
 Dymalloy,6/14/2018,"Turkey,",,Espionage,Private sector,Turkey,Unknown
@@ -237,7 +237,7 @@ JadeRAT,10/20/2017,Ethnic minorities in China,China,Espionage,Civil society,Chin
 Bronze Butler,10/12/2017,"Japan, Korea (Republic of), Russian Federation, China, Mitsubishi Group",China,Espionage,Private sector,South Korea,China
 Indictment of APT 3 threat actors,11/27/2017,"Moody's Analytics, Siemens, Trimble",China,Espionage,Private sector,Unknown,China
 APT 10,4/4/2017,"Japan, United States, United Kingdom, India, Canada, Brazil, South Africa, Australia, Thailand, South Korea, France, Switzerland, Sweden, Finland, Norway, New Zealand",China,Espionage,"Private sector, Government",United Kingdom,China
-Compromise of Kaspersky Labs,10/10/2017,Kaspersky Labs,Israel,Espionage,Private sector,Unknown,Israel
+Compromise of Kaspersky Labs,10/10/2017,Kaspersky Labs,Israel,Espionage,Private sector,Russia,Israel
 Greenbug,1/23/2017,"South Asian telecommunication providers, Middle Eastern government, aviation, education, and investment organizations",Iran (Islamic Republic of),,,Unknown,Iran
 Targeting of the government of Belarus,9/28/2017,Belarus,,Espionage,Government,Belarus,Unknown
 Targeting of Chinese-language news websites,7/5/2017,United States,China,Espionage,Civil society,United States,China
@@ -252,13 +252,13 @@ Compromise of Israeli Defense Force personnel,2/16/2017,Israel Defense Force,,Es
 Mexico accused of targeting journalists and civil society groups,6/19/2017,"Aristegui Noticias, Carlos Loret de Mola, Mexicans against Corruption and Impunity, Centro PRODH, Mexican Institute for Competitiveness",Mexico,Espionage,Civil society,Mexico,Mexico
 Targeting North Korea's Reconnaissance General Bureau,9/30/2017,North Korea,United States,Denial of service,Government,North Korea,United States
 Distributed denial of service against the government of Montenegro,2/17/2017,Montenegro,Russian Federation,Denial of service,Government,Unknown,Russia
-Compromise of Singapore's Ministry of Defense,2/28/2017,Ministry of Defense,,Espionage,Military,Unknown,Unknown
+Compromise of Singapore's Ministry of Defense,2/28/2017,Ministry of Defense,,Espionage,Military,United Kingdom,Unknown
 Compromise the North Korean nuclear program,3/4/2017,North Korea,United States,Sabotage,Military,North Korea,United States
-Targeting of Marco Rubio's presidential campaign,3/30/2017,The 2016 presidential campaign of Marco Rubio,Russian Federation,Espionage,Civil society,Unknown,Russia
+Targeting of Marco Rubio's presidential campaign,3/30/2017,The 2016 presidential campaign of Marco Rubio,Russian Federation,Espionage,Civil society,United States,Russia
 Longhorn,4/10/2017,Global,United States,Espionage,"Private sector, Government",Unknown,United States
 Phishing campaign against Montenegro,6/6/2017,Montenegro,Russian Federation,Espionage,Government,Unknown,Russia
 Compromise of a Danish Ministry of Defense e-mail service,4/23/2017,Denmark,Russian Federation,Espionage,"Military, Government",Denmark,Russia
-Targeting of French presidential candidate Emmanuel Macron's campaign,4/26/2017,Emmanuel Macron's 2017 presidential election campaign,Russian Federation,Espionage,Civil society,Unknown,Russia
+Targeting of French presidential candidate Emmanuel Macron's campaign,4/26/2017,Emmanuel Macron's 2017 presidential election campaign,Russian Federation,Espionage,Civil society,France,Russia
 Magic Hound,2/15/2017,Saudi Arabia,Iran (Islamic Republic of),Espionage,"Government, Private sector",Saudi Arabia,Iran
 WhiteBear,8/30/2017,"United States, United Kingdom, Uzbekistan, South Korea",Russian Federation,Espionage,"Government, Private sector",United Kingdom,Russia
 Compromise of the Italian Ministry of Foreign Affairs,2/10/2017,Italy,Russian Federation,Espionage,Government,Italy,Russia
@@ -272,7 +272,7 @@ Compromise of South Korean government computers (2016),12/6/2016,South Korea,Kor
 Denial of service incident against media websites in Sweden,3/19/2016,Sweden,Russian Federation,Denial of service,Private sector,Sweden,Russia
 Compromise of Ukrainian banks,12/13/2016,Ukraine,Russian Federation,Data destruction,Private sector,Ukraine,Russia
 Stealth Falcon,5/29/2016,"United Arab Emirates, United Kingdom",United Arab Emirates,Espionage,Civil society,United Kingdom,United Arab Emirates
-Compromise of the Democratic National Committee,6/14/2016,"Democratic National Committee, Democratic Congressional Campaign Committee",Russian Federation,Espionage,Civil society,Unknown,Russia
+Compromise of the Democratic National Committee,6/14/2016,"Democratic National Committee, Democratic Congressional Campaign Committee",Russian Federation,Espionage,Civil society,United States,Russia
 OilRig,1/5/2016,"Israel, Turkey, Qatar, Kuwait, Saudi Arabia, Lebanon, United States",Iran (Islamic Republic of),Espionage,"Government, Private sector, Civil society",United States,Iran
 Targeting of the Islamic State group,2/28/2016,The Islamic State Group,United States,Sabotage,Civil society,Unknown,United States
 "A compromise causes a power outage in Kiev, Ukraine",12/20/2016,Ukrenergo,Russian Federation,Sabotage,Private sector,United Kingdom,Russia
@@ -296,11 +296,11 @@ Operation Sphinx,7/21/2016,"Egypt, Israel",,Espionage,"Government, Military",Isr
 "Compromise of computer networks associated with diplomats, journalists, and others in South Korea",8/1/2016,South Korea,Korea (Democratic People's Republic of),Espionage,Government,South Korea,North Korea
 Compromise of a mobile app used by Ukrainian artillery units,12/22/2016,Ukraine Armed Forces,Russian Federation,Espionage,Military,Ukraine,Russia
 APT 16,12/16/2016,"Japan, Taiwan",China,Espionage,Private sector,Taiwan,China
-Targeting of Kazakh dissidents,8/2/2016,Kazakh dissidents,Kazakhstan,Espionage,Civil society,Unknown,Kazakhstan
-Compromise of the networks at the German parliament (Bundestag),5/29/2015,Bundestag,Russian Federation,Espionage,Government,Unknown,Russia
-Compromise of a power grid in eastern Ukraine,12/23/2015,Prikarpattiaoblenergo Electric Company,Russian Federation,Sabotage,Private sector,Unknown,Russia
+Targeting of Kazakh dissidents,8/2/2016,Kazakh dissidents,Kazakhstan,Espionage,Civil society,Kazakhstan,Kazakhstan
+Compromise of the networks at the German parliament (Bundestag),5/29/2015,Bundestag,Russian Federation,Espionage,Government,Germany,Russia
+Compromise of a power grid in eastern Ukraine,12/23/2015,Prikarpattiaoblenergo Electric Company,Russian Federation,Sabotage,Private sector,Ukraine,Russia
 APT 30,4/12/2015,"India, Thailand, South Korea, Saudi Arabia, Malaysia, United States, Vietnam, Cambodia, Indonesia, Myanmar, China, Laos, Singapore, Phillipines",China,Espionage,"Government, Private sector",United States,China
-Compromise of Anthem,2/6/2015,Anthem,China,Espionage,Private sector,Unknown,China
+Compromise of Anthem,2/6/2015,Anthem,China,Espionage,Private sector,United States,China
 Ocean Lotus,5/31/2015,"China, United States, Philippines, Germany, Vietnam, Association of Southeast Asian Nations, Cambodia, Laos",Vietnam,Espionage,"Government, Private sector, Civil society",United States,Vietnam
 Goblin Panda,6/1/2015,Vietnam,China,,"Government, Private sector",Vietnam,China
 Gamaredon,4/28/2015,Ukraine,Russian Federation,Espionage,Government,Ukraine,Russia
@@ -308,31 +308,31 @@ Duqu 2.0,6/10/2015,Iran,Israel,Espionage,"Government, Private sector",Iran,Israe
 Chafer,12/7/2015,"Saudi Arabia, United Arab Emirates, Israel, Jordan, Turkey",Iran (Islamic Republic of),Espionage,Private sector,Saudi Arabia,Iran
 APT 3,6/23/2015,"United States, United Kingdom, Hong Kong",China,Espionage,Private sector,United Kingdom,China
 Emissary Panda,8/5/2015,"United States, United Kingdom, France",China,Espionage,"Government, Private sector",United Kingdom,China
-Compromise of TV5 Monde,4/9/2015,TV5 Monde,Russian Federation,Defacement,Private sector,Unknown,Russia
+Compromise of TV5 Monde,4/9/2015,TV5 Monde,Russian Federation,Defacement,Private sector,France,Russia
 Targeting of the government of Thailand,11/24/2015,Thailand,China,Espionage,Government,Thailand,China
 "Targeting of Ugandan political opposition members, journalists, and activists",10/16/2015,Uganda,Uganda,Espionage,Civil society,Unknown,Unknown
 APT 17,5/14/2015,United States,China,Espionage,"Government, Private sector, Civil society",United States,China
 Rocket Kitten,11/9/2015,"Saudi Arabia, Israel, Yemen, Venezuela, Iraq, United Kingdom, Afghanistan, Kuwait, Egypt, United Arab Emirates, Turkey, Syria, Iran, Canada, Jordan",Iran (Islamic Republic of),Espionage,"Government, Military",United Kingdom,Iran
-Network compromise at the Australian Bureau of Meteorology,12/1/2015,Bureau of Meteorology,China,Espionage,Government,Unknown,China
+Network compromise at the Australian Bureau of Meteorology,12/1/2015,Bureau of Meteorology,China,Espionage,Government,Australia,China
 Compromise of the Japanese pension system,6/1/2015,Japan Pension Service,,Espionage,Government,Japan,Unknown
 Equation Group,2/16/2015,"Iran, Russia, Pakistan, Afghanistan, India, China, Syria, Mali, Lebanon, Yemen, Algeria, United Arab Emirates, Kenya, United Kingdom, Libya",United States,Espionage,"Government, Military",United Kingdom,United States
-Compromise of a Pentagon legacy system,6/4/2015,Pentagon,Russian Federation,Espionage,Military,Unknown,Russia
-Compromise at the Office of Personnel Management,7/10/2015,Office of Personnel Management,China,Espionage,Government,Unknown,China
+Compromise of a Pentagon legacy system,6/4/2015,Pentagon,Russian Federation,Espionage,Military,United States,Russia
+Compromise at the Office of Personnel Management,7/10/2015,Office of Personnel Management,China,Espionage,Government,United States,China
 Hellsing,4/15/2015,"Malaysia, Philippines, India, Indonesia, United States",China,Espionage,Government,United States,China
-Compromise of an unclassified network associated with the U.S. Joint Chiefs of Staff,7/28/2015,Joint Chiefs of Staff,Russian Federation,Espionage,Military,Unknown,Russia
-Compromise of United Airlines,7/29/2015,United Airlines,China,Espionage,Private sector,Unknown,China
+Compromise of an unclassified network associated with the U.S. Joint Chiefs of Staff,7/28/2015,Joint Chiefs of Staff,Russian Federation,Espionage,Military,United States,Russia
+Compromise of United Airlines,7/29/2015,United Airlines,China,Espionage,Private sector,United States,China
 Targeting of Ukrainian law enforcement and government officials,3/13/2015,Ukraine,Russian Federation,Espionage,"Military, Government",Ukraine,Russia
-Compromise of the Seoul subway system,10/5/2015,Seoul Subway System,Korea (Democratic People's Republic of),Espionage,Government,Unknown,North Korea
+Compromise of the Seoul subway system,10/5/2015,Seoul Subway System,Korea (Democratic People's Republic of),Espionage,Government,South Korea,North Korea
 Disruption of GitHub,3/27/2015,GitHub,China,Denial of service,Private sector,Unknown,China
 Compromise of the Permanent Court of Arbitration's website,10/16/2015,Permanent Court of Arbitration,China,Espionage,Government,Unknown,China
-Compromise of unclassified White House networks,4/7/2015,"White House, U.S Department of State",Russian Federation,Espionage,Government,Unknown,Russia
-Compromise of South Korean government computers (2015),10/20/2015,Members of the National Assembly,Korea (Democratic People's Republic of),Espionage,Government,Unknown,North Korea
+Compromise of unclassified White House networks,4/7/2015,"White House, U.S Department of State",Russian Federation,Espionage,Government,United States,Russia
+Compromise of South Korean government computers (2015),10/20/2015,Members of the National Assembly,Korea (Democratic People's Republic of),Espionage,Government,France,North Korea
 Blue Termite,8/20/2015,Japan,,Espionage,"Government, Private sector",Japan,Unknown
 Attempted compromise of the Dutch organization investigating the crash of flight MH17,10/22/2015,Dutch Safety Board,Russian Federation,Espionage,Government,Netherlands,Russia
 Compromise of networks in the Saudi government ministries,5/21/2015,"Ministry of Foreign Affairs, Ministry of the Interior, Ministry of Defense",Iran (Islamic Republic of),Espionage,"Government, Military",Unknown,Iran
 Compromise of social media accounts of State Department officials,11/24/2015,U.S. Department of State,Iran (Islamic Republic of),Espionage,Government,United States,Iran
 Lotus Blossom,7/28/2014,"Japan, Hong Kong, Taiwan, Philippines, Indonesia, Vietnam",China,Espionage,"Military, Government",Philippines,China
-Compromise of Community Health Systems,9/8/2014,Community Health Systems,China,Espionage,Private sector,Unknown,China
+Compromise of Community Health Systems,9/8/2014,Community Health Systems,China,Espionage,Private sector,United States,China
 Crouching Yeti,7/31/2014,"United States, Spain, Japan, Germany, France, Italy, Turkey, Ireland, Poland, China, Russia, Ukraine, United Kingdom, Greece",Russian Federation,Espionage,"Private sector, Government",United Kingdom,Russia
 DragonOK,9/10/2014,"Japan, Taiwan, Russia",China,Espionage,Private sector,Russia,China
 Compromise of U.S. Transportation Command Contractors,9/17/2014,Contractors of U.S. Transportation Command,China,Espionage,"Military, Private sector",United States,China
@@ -348,14 +348,14 @@ APT 18,9/2/2014,United States,China,Espionage,"Government, Private sector, Civil
 Operation Cleaver,12/2/2014,"Canada, China, United Kingdom, France, Germany, India, Israel, United States, Kuwait, Mexico, Pakistan, Qatar, Saudi Arabia, South Korea, Turkey",Iran (Islamic Republic of),Espionage,"Private sector, Government",United Kingdom,Iran
 Attempted compromise of Ukrainian email accounts,12/9/2014,Ukraine,Russian Federation,Espionage,"Government, Military",Ukraine,Russia
 Cloud Atlas,12/10/2014,"Russia, Kazakhstan, Belarus, India, Czech Republic",Russian Federation,Espionage,Government,Kazakhstan,Russia
-Compromise of the Sands Casino,12/12/2014,Las Vegas Sands Corporation,Iran (Islamic Republic of),Data destruction,Private sector,Unknown,Iran
+Compromise of the Sands Casino,12/12/2014,Las Vegas Sands Corporation,Iran (Islamic Republic of),Data destruction,Private sector,United States,Iran
 Indictment of PLA officers,5/19/2014,"Westinghouse, Solar World, U.S. Steel, ATI, USW, Alcoa",China,Espionage,Private sector,United States,China
 Attack on a German steel plant,12/22/2014,Unnamed German steel mill,,Sabotage,Private sector,Germany,Unknown
 Compromise of Boeing,7/12/2014,United States,China,Espionage,Private sector,United States,China
 Machete,8/20/2014,"Venezuela, Ecuador, Colombia, Russia, Brazil, Peru, Cuba, Spain, Sweden, China, Germany, United States, Belgium, France, Malaysia",,Espionage,"Military, Government",United States,Unknown
 Compromise of Canada's National Research Council,7/29/2014,National Research Council,China,Espionage,Government,Unknown,China
 APT 12,9/3/2014,"Japan, Taiwan",China,Espionage,"Private sector, Government",Taiwan,China
-Compromise of U.S. Investigations Services,8/6/2014,USIS,China,Espionage,Private sector,Unknown,China
+Compromise of U.S. Investigations Services,8/6/2014,USIS,China,Espionage,Private sector,United States,China
 Careto,2/10/2014,"Morocco, Brazil, United Kingdom, France, Spain, Switzerland, Libya, United States, Iran, Venezuela, South Africa, Germany, Poland, Tunisia",Spain,Espionage,"Government, Private sector",United Kingdom,Spain
 Fake Occupy Central apps,9/17/2014,Pro-democracy occupy central activists,China,Espionage,Private sector,Unknown,China
 Snowglobe,3/21/2014,"Syria, Iran, Malaysia, United States, China, Turkey, Netherlands, Germany, United Kingdom, Russia, Algeria, Ivory Coast, Spain, Norway, Greece",France,Espionage,"Government, Private sector",United Kingdom,France
@@ -365,10 +365,10 @@ Compromise of the U.S. State Department,10/28/2014,U.S. Department of State,Russ
 Compromise of the U.S. Postal Service,11/9/2014,U.S. Postal Service,China,Espionage,Government,United States,China
 Regin,11/24/2014,"Algeria, Afghanistan, Belgium, Brazil, Fiji, Germany, Iran, India, Indonesia, Kiribati, Malaysia, Pakistan, Syria, Russia","United Kingdom, United States",Espionage,"Government, Private sector",Afghanistan,United Kingdom
 Putter Panda,6/10/2014,U.S. satellite and aerospace sector,China,Espionage,"Private sector, Government",United States,China
-Compromise of the U.S. National Oceanic and Atmospheric Administration,11/12/2014,National Oceanic and Atmospheric Agency,China,Espionage,Government,Unknown,China
+Compromise of the U.S. National Oceanic and Atmospheric Administration,11/12/2014,National Oceanic and Atmospheric Agency,China,Espionage,Government,United States,China
 Patchwork,5/19/2013,"Bangladesh, Sri Lanka, Pakistan",India,Espionage,"Private sector, Military",Bangladesh,India
-Compromise of the Finnish Ministry of Foreign Affairs,11/1/2013,Ministry for Foreign Affairs,Russian Federation,Espionage,Government,Unknown,Russia
-Kimsuky,9/11/2013,"Ministry of Unification, Sejong Institute, Korea Institute for Defense Analyses, UN officials, including those affiliated with the UN Security Council",Korea (Democratic People's Republic of),Espionage,"Government, Private sector",Unknown,North Korea
+Compromise of the Finnish Ministry of Foreign Affairs,11/1/2013,Ministry for Foreign Affairs,Russian Federation,Espionage,Government,Finland,Russia
+Kimsuky,9/11/2013,"Ministry of Unification, Sejong Institute, Korea Institute for Defense Analyses, UN officials, including those affiliated with the UN Security Council",Korea (Democratic People's Republic of),Espionage,"Government, Private sector",South Korea,North Korea
 admin@338,10/31/2013,"Hong Kong, United States",China,Espionage,"Government, Private sector, Civil society",United States,China
 Mirage,12/11/2013,"European Union, India, United Kingdom",China,Espionage,Government,United Kingdom,China
 The Dukes,2/1/2013,"United States, Georgia, Brazil, China, Japan, Mexico, New Zealand, South Korea, Turkey, Ukraine, Belgium, Portugal, Romania, Kazakhstan, India",Russian Federation,Espionage,"Government, Private sector",United States,Russia
@@ -378,7 +378,7 @@ Sykipot,9/4/2013,"United States, United Kingdom, Hong Kong",China,Espionage,"Pri
 Icefog,9/25/2013,"South Korea, Japan, China, United States, Germany",China,Espionage,"Government, Military",United States,China
 Deep Panda,1/1/2013,United States,China,Espionage,"Private sector, Military",United States,China
 Red October,1/14/2013,"Russia, Kazakhstan, Azerbaijan, Belgium, India, Afghanistan, Armenia, Iran, Turkmenistan, Ukraine, United States, Vietnam, Belarus, Greece, Italy",Russian Federation,Espionage,"Government, Private sector",United States,Russia
-Compromise of EADS and ThyssenKrupp,2/25/2013,"European Aeronautic Defense and Space Company (EADS), ThyssenKrupp",China,Espionage,Private sector,Unknown,China
+Compromise of EADS and ThyssenKrupp,2/25/2013,"European Aeronautic Defense and Space Company (EADS), ThyssenKrupp",China,Espionage,Private sector,Germany,China
 PLA Unit 61398,2/19/2013,"United States, United Kingdom, Switzerland, Taiwan, Singapore, Canada, Israel, India, France, Norway, Belgium, Luxembourg, United Arab Emirates, South Africa, Japan",China,Espionage,"Private sector, Government",United Kingdom,China
 Compromise of the Indian Defense Research and Development Organization,3/13/2013,"Indian Defense Research Organization, Defense Research and Development Lab",China,Espionage,Military,India,China
 Team Spy Crew,3/20/2013,"Hungary, Belarus",Russian Federation,Espionage,"Government, Private sector",Belarus,Russia
@@ -390,60 +390,60 @@ Flame,5/28/2012,"Iran, Israel, Palestine, Sudan, Syria, Lebanon, Saudi Arabia, E
 Madi,7/17/2012,"Iran, Israel, United States, Pakistan",Iran (Islamic Republic of),Espionage,"Government, Private sector",United States,Iran
 Compromise of Nortel,2/14/2012,Nortel Networks,China,Espionage,Private sector,Unknown,China
 Gauss,8/9/2012,"Lebanon, Palestine, Israel, United States, Iran, United Arab Emirates, Qatar, Jordan, Germany , Egypt","United States, Israel",Espionage,Private sector,United States,United States
-Attempted compromise of the BBC Persian TV service,3/14/2012,BBC Persian TV,Iran (Islamic Republic of),Denial of service,Private sector,Unknown,Iran
+Attempted compromise of the BBC Persian TV service,3/14/2012,BBC Persian TV,Iran (Islamic Republic of),Denial of service,Private sector,Iran,Iran
 Sneaky Panda,9/14/2012,"United States, Hong Kong, Taiwan, Canada, Australia, China, United Kingdom, India, Denmark, Switzerland",China,Espionage,"Private sector, Civil society",United Kingdom,China
 SabPub,4/16/2012,"India, United States, United Kingdom, Spain, France",China,Espionage,Government,United Kingdom,China
 ITSecTeam,9/18/2012,"Bank of America, Citigroup, Wells Fargo, US Bancorp, PNC, Capital One, Fifth Third Bank, BB&T, HSBC",Iran (Islamic Republic of),Denial of service,Private sector,United States,Iran
 Denial of service attacks against U.S. banks in 2012–2013,9/18/2012,"Bank of America, Citigroup, Wells Fargo, US Bancorp, PNC, Capital One, Fifth Third Bank, BB&T, HSBC",Iran (Islamic Republic of),Denial of service,Private sector,United States,Iran
-Compromise of Coca-Cola,11/4/2012,Coca-Cola,China,Espionage,Private sector,Unknown,China
+Compromise of Coca-Cola,11/4/2012,Coca-Cola,China,Espionage,Private sector,United States,China
 Lucky Cat,3/30/2012,"India, Japan",China,Espionage,"Civil society, Private sector",India,China
 Syrian Electronic Army,1/1/2011,"Syrian Dissidents, Humanitarian Groups, Western Media Outlets, Associated Press, U.S. government websites, Twitter, PayPal, eBay",Syrian Arab Republic,,"Civil society, Private sector, Military, Government",Syria,Syria
 Compromise of the U.S. Chamber of Commerce,12/21/2011,U.S. Chamber of Commerce,China,Espionage,Government,United States,China
 Denial of service incident against South Korean and U.S. targets,4/9/2011,"South Korea, U.S. Forces Korea",Korea (Democratic People's Republic of),Denial of service,"Government, Military",South Korea,North Korea
-Denial of service incident against a South Korean bank,4/18/2011,National Agricultural Cooperative Federation,Korea (Democratic People's Republic of),Denial of service,Private sector,Unknown,North Korea
-Compromise of Oak Ridge National Laboratory,4/19/2011,Oak Ridge National Laboratory,China,Espionage,"Government, Private sector",Unknown,China
+Denial of service incident against a South Korean bank,4/18/2011,National Agricultural Cooperative Federation,Korea (Democratic People's Republic of),Denial of service,Private sector,South Korea,North Korea
+Compromise of Oak Ridge National Laboratory,4/19/2011,Oak Ridge National Laboratory,China,Espionage,"Government, Private sector",United States,China
 Shady RAT,8/3/2011,"United States, Canada, South Korea, Taiwan, Japan, Switzerland, United Kingdom, Indonesia, Vietnam, Singapore, Hong Kong, Germany, India, United Nations, International Olympic Committee",China,Espionage,"Government, Military",United Kingdom,China
-Compromise of a Taiwanese political party,8/9/2011,Democratic Progressive Party,China,Espionage,Government,Unknown,China
+Compromise of a Taiwanese political party,8/9/2011,Democratic Progressive Party,China,Espionage,Government,Taiwan,China
 Compromise of certificate issuer DigiNotar,9/6/2011,DigiNotar,,Espionage,"Government, Private sector",Unknown,Unknown
-Compromise at Mitsubishi Heavy Industries,9/19/2011,Mitsubishi Heavy Industries,,Espionage,Private sector,Unknown,Unknown
+Compromise at Mitsubishi Heavy Industries,9/19/2011,Mitsubishi Heavy Industries,,Espionage,Private sector,Japan,Unknown
 Nitro attacks,10/31/2011,"United States, Bangladesh, United Kingdom, Argentina, Singapore, China, Taiwan, Germany, Czech Republic, Hong Kong, India, Netherlands, Finland, South Korea, France",China,Espionage,"Government, Private sector",South Korea,China
 Duqu,10/26/2011,"Iran, Sudan",Israel,Espionage,Military,Iran,Israel
-Interference with NASA satellite Landsat 7,11/9/2011,NASA,China,Espionage,Government,Unknown,China
+Interference with NASA satellite Landsat 7,11/9/2011,NASA,China,Espionage,Government,United States,China
 Compromise of Canadian government departments,2/16/2011,"Treasury Board of Canada, Department of Finance, Defense Research and Development Canada",China,Espionage,Government,Canada,China
-Interference with NASA satellite Terra (EOS AM-1),11/9/2011,NASA,China,Espionage,Government,Unknown,China
+Interference with NASA satellite Terra (EOS AM-1),11/9/2011,NASA,China,Espionage,Government,United States,China
 Compromise of RSA SecureID tokens,3/19/2011,RSA,China,Espionage,Private sector,Unknown,China
 Operation Aurora,1/14/2010,"Google, Adobe, Juniper Networks, Rackspace, Yahoo, Symantec, Northtrop Grumman, Morgan Stanley, Dow Chemical",China,Espionage,Private sector,Unknown,China
-Defacement of Baidu,1/12/2010,Baidu,Iran (Islamic Republic of),Defacement,Private sector,Unknown,Iran
+Defacement of Baidu,1/12/2010,Baidu,Iran (Islamic Republic of),Defacement,Private sector,China,Iran
 Compromise of the Indian Prime Minister's Office,1/14/2010,Prime Minister's Office,China,Espionage,Government,Unknown,China
 Malware targets Vietnamese users,3/30/2010,Vietnamese political activists,Vietnam,Denial of service,Government,Vietnam,Vietnam
-Night Dragon,1/25/2010,"Marathon Oil, ExxonMobil, ConocoPhillips",China,Espionage,Private sector,Unknown,China
-Compromise of three Australian mining companies,4/19/2010,"Rio Tinto, BHP Billiton, Fortescue Metals",China,Espionage,Private sector,Unknown,China
+Night Dragon,1/25/2010,"Marathon Oil, ExxonMobil, ConocoPhillips",China,Espionage,Private sector,United States,China
+Compromise of three Australian mining companies,4/19/2010,"Rio Tinto, BHP Billiton, Fortescue Metals",China,Espionage,Private sector,Australia,China
 Shadow Network,4/6/2010,"National Security Council, Ministry of External Affairs, Institute for Defence Studies and Analyses, United Nations",China,Espionage,"Military, Government",Unknown,China
 Stuxnet,7/22/2010,"Iran, Indonesia, India, Azerbaijan, Pakistan, Malaysia, United States, Uzbekistan, Russia, United Kingdom, South Korea, Taiwan","Israel, United States",Sabotage,Military,United Kingdom,United States
-Compromise of the office of Senator Ben Nelson,3/20/2009,Office of Senator Ben Nelson,China,Espionage,Government,Unknown,China
+Compromise of the office of Senator Ben Nelson,3/20/2009,Office of Senator Ben Nelson,China,Espionage,Government,United States,China
 Compromise of computers associated with the Joint Strike Fighter program,4/21/2009,U.S. Department of Defense,China,Espionage,Military,United States,China
 Fourth of July incident,7/8/2009,"South Korea, United States",Korea (Democratic People's Republic of),Denial of service,"Government, Private sector",United States,North Korea
 GhostNet,3/28/2009,"Iran, Bangladesh, India, South Korea, Germany, Pakistan, Taiwan, Thailand, Indonesia, Philippines, Latvia, Portugal, Barbados, China",China,Espionage,"Government, Private sector",South Korea,China
 Offensive cyber campaign against Georgia,8/13/2008,Georgia,Russian Federation,Denial of service,Government,Unknown,Russia
 Targeting of pro-Tibet activist groups,3/21/2008,"Tibet Support Network, Human Rights in China, Students For a Free Tibet",China,Espionage,Civil society,China,China
 Compromise of Indian military computers,5/5/2008,"Ministry of External Affairs, India National Informatics Centre",China,Espionage,"Military, Government",India,China
-Compromise of U.S. presidential campaigns in 2008,11/4/2008,"Obama Campaign, McCain Campaign",China,Espionage,Civil society,Unknown,China
-Compromise at NASA Kennedy Space Center,11/19/2008,NASA,China,Espionage,Government,Unknown,China
-"Compromise of NASA network in Washington, DC",11/19/2008,NASA,China,Espionage,Government,Unknown,China
+Compromise of U.S. presidential campaigns in 2008,11/4/2008,"Obama Campaign, McCain Campaign",China,Espionage,Civil society,United States,China
+Compromise at NASA Kennedy Space Center,11/19/2008,NASA,China,Espionage,Government,United States,China
+"Compromise of NASA network in Washington, DC",11/19/2008,NASA,China,Espionage,Government,United States,China
 Agent.btz,11/28/2008,"United States, Russia, Spain, Italy, Kazakhstan, Germany, Poland, Latvia, Lithuania, United Kingdom, Ukraine",Russian Federation,Espionage,"Military, Private sector",United Kingdom,Russia
 Estonian denial of service incident,5/16/2007,Estonia,Russian Federation,Denial of service,"Military, Government",Estonia,Russia
 Compromise at the Department of Homeland Security,9/24/2007,U.S. Department of Homeland Security,China,Espionage,Military,United States,China
 Attack on the Syrian Air Force,10/4/2007,Syrian Arab Air Force,Israel,Denial of service,Military,Syria,Israel
 Compromise of Chinese government computers,10/23/2007,"China Aerospace Science & Industry Corporation, National Defense Research Institutes, Military Industrial Labs, Ministry of Foreign Affairs","Taiwan, United States",Denial of service,"Government, Military",China,United States
 Targeting of U.S. National Laboratories,12/7/2007,"Oak Ridge National Laboratory, Los Alamos National Laboratory, Lawrence Livermore National Laboratory, U.S. Department of Energy, National Nuclear Security Administration",China,Espionage,"Government, Private sector",United States,China
-Compromise of National Defense University,1/12/2007,National Defense University,China,Espionage,Military,Unknown,China
+Compromise of National Defense University,1/12/2007,National Defense University,China,Espionage,Military,United States,China
 Secretary of defense email incident,6/22/2007,U.S. Department of Defense,China,Espionage,Military,United States,China
 Compromise of German government networks,8/27/2007,"German Chancellery, Ministry of Foreign Affairs, Ministry for Economic Affairs and Energy, Ministry of Education and Research",China,Espionage,Government,Germany,China
 Compromise of French Defense Ministry website,9/9/2007,French Defence Ministry,China,Espionage,Military,France,China
 Attempted compromise of Australian and New Zealand government computers,9/12/2007,"Australia, New Zealand",China,Espionage,Government,New Zealand,China
 Compromise at the State Department,7/11/2006,U.S. Department of State,China,Espionage,Government,United States,China
 Compromise of the Pentagon’s NIPRNet,8/17/2006,U.S. Department of Defense,China,Espionage,Military,United States,China
-Compromise at U.S. Naval War College,12/4/2006,Naval War College,China,Espionage,Military,Unknown,China
+Compromise at U.S. Naval War College,12/4/2006,Naval War College,China,Espionage,Military,United States,China
 Titan Rain,8/25/2005,"U.S. Department of State, U.S. Department of Defense, U.S. Department of Energy, U.S. Department of Homeland Security, NASA, UK Ministry of Defense, UK House of Commons, UK Foreign Office",China,Espionage,"Military, Government",United States,China
 Trisis,,Saudi Arabia,,Sabotage,Private sector,Saudi Arabia,Unknown
 APT-C-23,,Israel Defense Forces,"Palestine, State of",,,Israel,Palestine

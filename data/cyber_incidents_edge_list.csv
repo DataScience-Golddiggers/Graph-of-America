@@ -1,43 +1,47 @@
 Sponsor,Victims,weight
-China,Australia,3
+China,Australia,5
 China,Canada,1
-China,France,1
-China,Germany,2
+China,France,2
+China,Germany,4
 China,Hong Kong,7
 China,India,4
-China,Japan,4
+China,Japan,5
 China,Malaysia,1
 China,New Zealand,1
 China,Philippines,3
 China,Russia,1
 China,Singapore,1
 China,South Korea,7
-China,Taiwan,4
+China,Taiwan,5
 China,Thailand,1
 China,United Kingdom,16
-China,United States,34
+China,United States,53
 China,Vietnam,3
 France,United Kingdom,1
 India,Bangladesh,1
 Indonesia,Australia,1
 Iran,Bahrain,1
+Iran,China,1
 Iran,Israel,2
+Iran,Italy,1
 Iran,Russia,1
-Iran,Saudi Arabia,6
+Iran,Saudi Arabia,7
 Iran,South Korea,1
 Iran,United Kingdom,8
-Iran,United States,23
+Iran,United States,24
 Israel,Iran,3
+Israel,Russia,1
 Israel,Syria,1
 Lebanon,United States,1
 Netherlands,Russia,1
 North Korea,Bangladesh,1
 North Korea,China,1
+North Korea,France,1
 North Korea,India,2
 North Korea,South Africa,2
-North Korea,South Korea,9
+North Korea,South Korea,12
 North Korea,United Kingdom,1
-North Korea,United States,8
+North Korea,United States,9
 Pakistan,India,3
 Pakistan,United States,1
 Palestine,Israel,2
@@ -49,7 +53,9 @@ Russia,Canada,1
 Russia,Czechia,2
 Russia,Denmark,1
 Russia,Estonia,1
-Russia,Germany,7
+Russia,Finland,1
+Russia,France,2
+Russia,Germany,8
 Russia,Indonesia,1
 Russia,Italy,1
 Russia,Kazakhstan,1
@@ -61,16 +67,17 @@ Russia,Saudi Arabia,1
 Russia,South Korea,2
 Russia,Sweden,1
 Russia,Switzerland,2
-Russia,Ukraine,13
+Russia,Ukraine,15
 Russia,United Arab Emirates,1
 Russia,United Kingdom,8
-Russia,United States,14
+Russia,United States,21
 South Korea,North Korea,2
 Spain,United Kingdom,1
 United Arab Emirates,Qatar,1
 United Arab Emirates,Turkey,1
 United Arab Emirates,United Kingdom,1
 United Kingdom,Afghanistan,1
+United Kingdom,Russia,1
 United States,Belgium,1
 United States,China,1
 United States,Iran,2
